@@ -34,12 +34,8 @@
 |29| T, Dec. 23 | | .ppt .pdf | Szeliski xx| |
 |30| Th, Dec. 25 | | .ppt .pdf | Szeliski xx| |
 |31| T, Dec. 30 | | .ppt .pdf | Szeliski xx| |
-|32| Th, Jan. 1 | 元旦 Happy new year||| |
-|33| T, Jan. 6 | | .ppt .pdf | Szeliski xx| |
-|34| Th, Jan. 8 | |.ppt .pdf | Szeliski xx| |
-|35| T, Jan. 13 | | .ppt .pdf | Szeliski xx| |
-|36| Th, Jan. 15 | | .ppt .pdf | Szeliski xx| |
-
-
-## results
-![Bilby Stampede](http://www.nthu.edu.tw/_img/aboutnthu/pic2-01.png)
+|| Th, Jan. 1 | 元旦 Happy new year||| |
+|32| T, Jan. 6 | | .ppt .pdf | Szeliski xx| |
+|33| Th, Jan. 8 | |.ppt .pdf | Szeliski xx| |
+|34| T, Jan. 13 | | .ppt .pdf | Szeliski xx| |
+|35| Th, Jan. 15 | | .ppt .pdf | Szeliski xx| |
