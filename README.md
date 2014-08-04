@@ -36,9 +36,9 @@
 | T, Dec. 30 | | .ppt .pdf | Szeliski xx| |
 | Th, Jan. 1 | 元旦 Happy new year||| |
 | T, Jan. 6 | | .ppt .pdf | Szeliski xx| |
-| Th, Jan. 8 | .ppt .pdf | Szeliski xx| |
+| Th, Jan. 8 | |.ppt .pdf | Szeliski xx| |
 | T, Jan. 13 | | .ppt .pdf | Szeliski xx| |
-| Th, Jan. 15 | .ppt .pdf | Szeliski xx| |
+| Th, Jan. 15 | | .ppt .pdf | Szeliski xx| |
 
 
 ## results
