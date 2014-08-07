@@ -4,23 +4,28 @@
 |lecture| Class Dates   | Topic                 | Slides  | Reading | Homework/Exam |
 |-------| ------------- |:---------------------:| -------:| -------:| ------------: |
 |1| T, Sept. 16    | Introduction to computer vision | .ppt .pdf | Szeliski 1 | |
-|2| Th, Sept. 18 | | .ppt .pdf | Szeliski xx| |
-|3| T, Sept. 23 | | .ppt .pdf | Szeliski xx| |
-|4| Th, Sept. 25 | | .ppt .pdf | Szeliski xx| |
-|5| T, Sept. 30 | | .ppt .pdf | Szeliski xx| |
-|6| Th, Oct. 2 | | .ppt .pdf | Szeliski xx| |
-|7| T, Oct. 7 | | .ppt .pdf | Szeliski xx| |
-|8| Th, Oct. 9 | | .ppt .pdf | Szeliski xx| |
-|9| T, Oct. 14 | | .ppt .pdf | Szeliski xx| |
-|10| Th, Oct. 16 | | .ppt .pdf | Szeliski xx| |
-|11| T, Oct. 21 | | .ppt .pdf | Szeliski xx| |
-|12| Th, Oct. 23 | | .ppt .pdf | Szeliski xx| |
-|13| T, Oct. 28 | | .ppt .pdf | Szeliski xx| |
-|14| Th, Oct. 30 | | .ppt .pdf | Szeliski xx| |
-|15| T, Nov. 4 | | .ppt .pdf | Szeliski xx| |
-|16| Th, Nov. 6 | | .ppt .pdf | Szeliski xx| |
-|17| T, Nov. 11 | | .ppt .pdf | Szeliski xx| |
-|18| Th, Nov. 13 | | .ppt .pdf | Szeliski xx| |
+| ||**Image Formation and Filtering**||||
+|2| Th, Sept. 18 |Cameras and optics & git and github | .ppt .pdf | Szeliski xx|homework 0 out |
+|3| T, Sept. 23 | Light and color | .ppt .pdf | Szeliski xx| |
+|4| Th, Sept. 25 | Image filtering & MATLAB Tutorial | .ppt .pdf | Szeliski xx|homework 0 due  |
+|5| T, Sept. 30 |Thinking in frequency | .ppt .pdf | Szeliski xx| homework 1 out |
+|6| Th, Oct. 2 |Image pyramids and applications & show and tell | .ppt .pdf | Szeliski xx| |
+||  |Feature Detection and Matching |  | | |
+|7| T, Oct. 7 |Edge detection | .ppt .pdf | Szeliski xx| |
+|8| Th, Oct. 9 | Interest points, corners, and local image features| .ppt .pdf | Szeliski xx| |
+|9| T, Oct. 14 | Feature matching and hough transform| .ppt .pdf | Szeliski xx| |
+|10| Th, Oct. 16 |Model fitting and RANSAC & show and tell | .ppt .pdf | Szeliski xx| |
+|11| T, Oct. 21 |Panorama Stitching | .ppt .pdf | Szeliski xx| homework 2 out|
+||  |Multiple Views and Motion |  | | |
+|12| Th, Oct. 23 | Stereo and Structure from Motion| .ppt .pdf | Szeliski xx| |
+|13| T, Oct. 28 | Feature Tracking and Optical Flow | .ppt .pdf | Szeliski xx| |
+||  |Machine Learning Crash Course |  | | |
+|14| Th, Oct. 30 |Machine learning intro and clustering | .ppt .pdf | Szeliski xx| |
+|15| T, Nov. 4 | Machine learning: classification| .ppt .pdf | Szeliski xx| homework 3 out|
+||  |Recognition |  | | |
+|16| Th, Nov. 6 |Recognition overview, bag of features, large-scale instance recognition | .ppt .pdf | Szeliski xx| |
+|17| T, Nov. 11 | Detection with sliding windows: Viola Jones| .ppt .pdf | Szeliski xx| |
+|18| Th, Nov. 13 |Detection continued | .ppt .pdf | Szeliski xx| |
 |19| T, Nov. 18 | | .ppt .pdf | Szeliski xx| |
 |20| Th, Nov. 20 | | .ppt .pdf | Szeliski xx| |
 |21| T, Nov. 25 | | .ppt .pdf | Szeliski xx| |
