@@ -20,7 +20,7 @@
 |12| Th, Oct. 23 | Stereo and Structure from Motion| .ppt .pdf | Szeliski xx| |
 |13| T, Oct. 28 | Feature Tracking and Optical Flow | .ppt .pdf | Szeliski xx| |
 ||  |Machine Learning Crash Course |  | | |
-|14| Th, Oct. 30 |Machine learning intro and clustering | .ppt .pdf | Szeliski xx| |
+|14| Th, Oct. 30 |Machine learning intro and clustering | .ppt .pdf | Szeliski xx| Project proposal due|
 |15| T, Nov. 4 | Machine learning: classification| .ppt .pdf | Szeliski xx|homework 3 out |
 ||  | Recognition |  | | |
 |16| Th, Nov. 6 |Recognition overview, bag of features, large-scale instance recognition | .ppt .pdf | Szeliski xx| |
@@ -33,7 +33,7 @@
 |23| T, Dec. 2 | Image Parsing| .ppt .pdf | Szeliski xx| |
 |24| Th, Dec. 4 |Context and Spatial Layout | .ppt .pdf | Szeliski xx| |
 |25| T, Dec. 9 |Internet scale vision | .ppt .pdf | Szeliski xx| |
-|26| Th, Dec. 11 |Human computation and crowdsourcing | .ppt .pdf | Szeliski xx| |
+|26| Th, Dec. 11 |Human computation and crowdsourcing | .ppt .pdf | Szeliski xx| Midterm project report due|
 |27| T, Dec. 16 |Attributes and more crowdsourcing | .ppt .pdf | Szeliski xx| |
 |28| Th, Dec. 18 |Modern boundary detection and Pb & **show and tell** | .ppt .pdf | Szeliski xx| |
 |29| T, Dec. 23 | Human pose estimation| .ppt .pdf | Szeliski xx| |
@@ -41,6 +41,6 @@
 |31| T, Dec. 30 | Project Pitch| .ppt .pdf | Szeliski xx| |
 || Th, Jan. 1 | 元旦 Happy new year||| |
 |32| T, Jan. 6 | Video analysis| .ppt .pdf | Szeliski xx| |
-|33| Th, Jan. 8 | Mobile Vision|.ppt .pdf | Szeliski xx| |
+|33| Th, Jan. 8 | Mobile Vision & Project presentation |.ppt .pdf | Szeliski xx| |
 |34| T, Jan. 13 | Project presentation | .ppt .pdf | Szeliski xx| |
-|35| Th, Jan. 15 |Project presentation | .ppt .pdf | Szeliski xx| |
+|35| Th, Jan. 15 |Project Poster Session | .ppt .pdf | Szeliski xx| |
