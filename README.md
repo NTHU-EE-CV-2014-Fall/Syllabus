@@ -28,19 +28,19 @@
 |18| Th, Nov. 13 |Detection with sliding windows: Viola Jones | .ppt .pdf | Szeliski xx| |
 |19| T, Nov. 18 | Mixture of Gaussians and advanced feature encoding| .ppt .pdf | Szeliski xx| |
 |20| Th, Nov. 20 |Modern Object Detection & **show and tell** | .ppt .pdf | Szeliski xx| homework 4 out|
-|21| T, Nov. 25 | | .ppt .pdf | Szeliski xx| |
-|22| Th, Nov. 27 | | .ppt .pdf | Szeliski xx| |
-|23| T, Dec. 2 | | .ppt .pdf | Szeliski xx| |
-|24| Th, Dec. 4 | | .ppt .pdf | Szeliski xx| |
-|25| T, Dec. 9 | | .ppt .pdf | Szeliski xx| |
-|26| Th, Dec. 11 | | .ppt .pdf | Szeliski xx| |
-|27| T, Dec. 16 | | .ppt .pdf | Szeliski xx| |
-|28| Th, Dec. 18 | | .ppt .pdf | Szeliski xx| |
-|29| T, Dec. 23 | | .ppt .pdf | Szeliski xx| |
-|30| Th, Dec. 25 | | .ppt .pdf | Szeliski xx| |
-|31| T, Dec. 30 | | .ppt .pdf | Szeliski xx| |
+|21| T, Nov. 25 | 3D Object Dection and Pose Estimation| .ppt .pdf | Szeliski xx| |
+|22| Th, Nov. 27 | Working with RGB-D | .ppt .pdf | Szeliski xx| |
+|23| T, Dec. 2 | Image Parsing| .ppt .pdf | Szeliski xx| |
+|24| Th, Dec. 4 |Context and Spatial Layout | .ppt .pdf | Szeliski xx| |
+|25| T, Dec. 9 |Internet scale vision | .ppt .pdf | Szeliski xx| |
+|26| Th, Dec. 11 |Human computation and crowdsourcing | .ppt .pdf | Szeliski xx| |
+|27| T, Dec. 16 |Attributes and more crowdsourcing | .ppt .pdf | Szeliski xx| |
+|28| Th, Dec. 18 |Modern boundary detection and Pb & **show and tell** | .ppt .pdf | Szeliski xx| |
+|29| T, Dec. 23 | Human pose estimation| .ppt .pdf | Szeliski xx| |
+|30| Th, Dec. 25 |Action and Event | .ppt .pdf | Szeliski xx| |
+|31| T, Dec. 30 | Project Pitch| .ppt .pdf | Szeliski xx| |
 || Th, Jan. 1 | 元旦 Happy new year||| |
-|32| T, Jan. 6 | | .ppt .pdf | Szeliski xx| |
-|33| Th, Jan. 8 | |.ppt .pdf | Szeliski xx| |
-|34| T, Jan. 13 | | .ppt .pdf | Szeliski xx| |
-|35| Th, Jan. 15 | | .ppt .pdf | Szeliski xx| |
+|32| T, Jan. 6 | Video analysis| .ppt .pdf | Szeliski xx| |
+|33| Th, Jan. 8 | Mobile Vision|.ppt .pdf | Szeliski xx| |
+|34| T, Jan. 13 | Project presentation | .ppt .pdf | Szeliski xx| |
+|35| Th, Jan. 15 |Project presentation | .ppt .pdf | Szeliski xx| |
